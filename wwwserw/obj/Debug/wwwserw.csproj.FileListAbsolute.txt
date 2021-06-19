@@ -1,0 +1,6 @@
+C:\Users\fedor\source\repos\wwwserw\wwwserw\bin\Debug\wwwserw.exe.config
+C:\Users\fedor\source\repos\wwwserw\wwwserw\bin\Debug\wwwserw.exe
+C:\Users\fedor\source\repos\wwwserw\wwwserw\bin\Debug\wwwserw.pdb
+C:\Users\fedor\source\repos\wwwserw\wwwserw\obj\Debug\wwwserw.csprojAssemblyReference.cache
+C:\Users\fedor\source\repos\wwwserw\wwwserw\obj\Debug\wwwserw.exe
+C:\Users\fedor\source\repos\wwwserw\wwwserw\obj\Debug\wwwserw.pdb
